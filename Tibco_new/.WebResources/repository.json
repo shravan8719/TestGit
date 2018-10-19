@@ -1,7 +1,0 @@
-{
-    "records": [],
-    "resources": [{
-        "location": "Service Descriptors/tibco_new.Process-Resource.json",
-        "type": "generated"
-    }]
-}
