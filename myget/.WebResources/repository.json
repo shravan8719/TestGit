@@ -1,7 +1,0 @@
-{
-    "records": [],
-    "resources": [{
-        "location": "Service Descriptors/myget.Process-Resource.json",
-        "type": "generated"
-    }]
-}
